@@ -1,0 +1,19 @@
+{
+  "editor.autoClosingTags": "always",
+  "emmet.includeLanguages": {
+    "django-html": "html",
+    "html": "html"
+  },
+  "files.associations": {
+    "*.html": "django-html"
+  },
+  "editor.defaultFormatter": null,
+  "[django-html]": {
+    "editor.defaultFormatter": null,
+    "editor.formatOnSave": false
+  },
+  "[html]": {
+    "editor.formatOnSave": false
+  }
+  
+}
